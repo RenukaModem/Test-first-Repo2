@@ -69,4 +69,11 @@
         <members>obj__c</members>
         <name>CustomObject</name>
     </types>
+    <types>
+        <members>New_prod__c-en_US</members>
+        <members>Spain_PROD__c-en_US</members>
+        <members>X11878__c-en_US</members>
+        <members>obj__c-en_US</members>
+        <name>CustomObjectTranslation</name>
+    </types>
 </Package>
