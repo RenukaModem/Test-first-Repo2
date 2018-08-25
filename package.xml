@@ -69,4 +69,10 @@
         <members>obj__c</members>
         <name>CustomObject</name>
     </types>
+    <types>
+        <members>Account.AllAccounts</members>
+        <members>Asset.AllAssets</members>
+        <members>Order.AllOrders</members>
+        <name>ListView</name>
+    </types>
 </Package>
