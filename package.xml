@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>39.0</version>
+    <version>40.0</version>
     <types>
         <members>Account.cf1__c</members>
         <name>CustomField</name>
@@ -13,12 +13,14 @@
         <members>Asset</members>
         <members>AssetRelationship</members>
         <members>AssistantProgress</members>
+        <members>CSYS__c</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
         <members>Case</members>
         <members>CaseContactRole</members>
         <members>CollaborationGroup</members>
         <members>CollaborationGroupMember</members>
+        <members>Commithistorytest__c</members>
         <members>Contact</members>
         <members>ContactCleanInfo</members>
         <members>ContentVersion</members>
@@ -34,11 +36,17 @@
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
         <members>Idea</members>
+        <members>Knowledge__kav</members>
+        <members>Kumar__c</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
+        <members>Lepa__mdt</members>
+        <members>LinkedArticle</members>
         <members>Macro</members>
         <members>MacroAction</members>
         <members>MacroInstruction</members>
+        <members>NA23issue_setting__mdt</members>
+        <members>NewNA23__c</members>
         <members>Opportunity</members>
         <members>OpportunityCompetitor</members>
         <members>OpportunityContactRole</members>
@@ -61,12 +69,31 @@
         <members>Solution</members>
         <members>StreamActivityAccess</members>
         <members>StreamingChannel</members>
+        <members>Student__c</members>
+        <members>Support__c</members>
+        <members>Suryatest__mdt</members>
         <members>Task</members>
+        <members>Test11221f__c</members>
+        <members>Test2106__mdt</members>
+        <members>TestNA23issue__mdt</members>
+        <members>TestNS21__c</members>
+        <members>Testhugh__c</members>
+        <members>Testingemail__c</members>
         <members>Topic</members>
         <members>TopicAssignment</members>
+        <members>Training1__c</members>
+        <members>Training2__c</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
+        <members>Vehicle__c</members>
+        <members>X06082018__c</members>
+        <members>X11783__c</members>
+        <members>XOGrp_Account__c</members>
+        <members>Yousuf_Shareef__c</members>
         <members>obj__c</members>
+        <members>test06082018__c</members>
+        <members>test0608__c</members>
+        <members>test27__c</members>
         <name>CustomObject</name>
     </types>
     <types>
