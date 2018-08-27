@@ -94,6 +94,7 @@
         <members>test06082018__c</members>
         <members>test0608__c</members>
         <members>test27__c</members>
+        <members>test27one__c</members>
         <name>CustomObject</name>
     </types>
     <types>
