@@ -80,4 +80,10 @@
         <members>Order.AllOrders</members>
         <name>ListView</name>
     </types>
+    <types>
+        <members>CampaignMemberStatus</members>
+        <members>CampaignStatus</members>
+        <members>CampaignType</members>
+        <name>StandardValueSet</name>
+    </types>
 </Package>
