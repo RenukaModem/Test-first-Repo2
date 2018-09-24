@@ -7,4 +7,6 @@
     <tab>standard-OtherUserProfile</tab>
     <tab>standard-CollaborationGroup</tab>
     <tab>standard-File</tab>
+    <tab>Support__c</tab>
+    <tab>Student__c</tab>
 </CustomApplication>

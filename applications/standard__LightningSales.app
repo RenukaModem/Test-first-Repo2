@@ -5,8 +5,35 @@
     <formFactors>Large</formFactors>
     <label>Sales</label>
     <navType>Standard</navType>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>FPSE_call</content>
+        <formFactor>Large</formFactor>
+        <pageOrSobjectType>Account</pageOrSobjectType>
+        <recordType>Account.Testrecord</recordType>
+        <type>Flexipage</type>
+        <profile>Admin</profile>
+    </profileActionOverrides>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>SEtest2</content>
+        <formFactor>Large</formFactor>
+        <pageOrSobjectType>Account</pageOrSobjectType>
+        <type>Flexipage</type>
+        <profile>Shivaprofile</profile>
+    </profileActionOverrides>
+    <profileActionOverrides>
+        <actionName>View</actionName>
+        <content>SEtest2</content>
+        <formFactor>Large</formFactor>
+        <pageOrSobjectType>Account</pageOrSobjectType>
+        <recordType>Account.Testrecord</recordType>
+        <type>Flexipage</type>
+        <profile>Shivaprofile</profile>
+    </profileActionOverrides>
     <tab>standard-home</tab>
-    <tab>standard-WaveHome</tab>
+    <tab>SETest1</tab>
+    <tab>SE74881</tab>
     <tab>standard-Opportunity</tab>
     <tab>standard-Lead</tab>
     <tab>standard-Task</tab>
@@ -22,5 +49,7 @@
     <tab>standard-OtherUserProfile</tab>
     <tab>standard-Case</tab>
     <tab>standard-Forecasting3</tab>
+    <tab>Support__c</tab>
+    <tab>Student__c</tab>
     <uiType>Lightning</uiType>
 </CustomApplication>

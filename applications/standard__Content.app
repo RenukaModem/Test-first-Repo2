@@ -6,4 +6,6 @@
     <tab>standard-Workspace</tab>
     <tab>standard-ContentSearch</tab>
     <tab>standard-ContentSubscriptions</tab>
+    <tab>Support__c</tab>
+    <tab>Student__c</tab>
 </CustomApplication>

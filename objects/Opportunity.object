@@ -41,6 +41,13 @@
         <type>Default</type>
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <compactLayouts>
+        <fullName>Yousuf</fullName>
+        <fields>AccountId</fields>
+        <fields>Amount</fields>
+        <fields>CreatedById</fields>
+        <label>Yousuf</label>
+    </compactLayouts>
     <enableFeeds>true</enableFeeds>
     <enableHistory>false</enableHistory>
     <fields>

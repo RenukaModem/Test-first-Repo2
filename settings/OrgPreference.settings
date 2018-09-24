@@ -42,7 +42,7 @@
     </preferences>
     <preferences>
         <settingName>Translation</settingName>
-        <settingValue>false</settingValue>
+        <settingValue>true</settingValue>
     </preferences>
     <preferences>
         <settingName>UseLanguageFallback</settingName>
@@ -126,7 +126,7 @@
     </preferences>
     <preferences>
         <settingName>UpgradeInsecureRequestsPref</settingName>
-        <settingValue>true</settingValue>
+        <settingValue>false</settingValue>
     </preferences>
     <preferences>
         <settingName>ReferrerPolicy</settingName>
@@ -138,7 +138,7 @@
     </preferences>
     <preferences>
         <settingName>RedirectionWarning</settingName>
-        <settingValue>true</settingValue>
+        <settingValue>false</settingValue>
     </preferences>
     <preferences>
         <settingName>S1DesktopEnabled</settingName>

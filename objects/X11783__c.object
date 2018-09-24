@@ -57,6 +57,12 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>11783s</pluralLabel>
+    <recordTypes>
+        <fullName>test</fullName>
+        <active>true</active>
+        <description>s</description>
+        <label>test</label>
+    </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

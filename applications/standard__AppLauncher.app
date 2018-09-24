@@ -3,4 +3,6 @@
     <defaultLandingTab>standard-home</defaultLandingTab>
     <formFactors>Large</formFactors>
     <tab>standard-AppLauncher</tab>
+    <tab>Support__c</tab>
+    <tab>Student__c</tab>
 </CustomApplication>

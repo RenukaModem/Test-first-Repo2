@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>true</plural>
+        <value>XOGrp</value>
+    </caseValues>
+    <caseValues>
+        <plural>false</plural>
+        <value>XOGrp Account</value>
+    </caseValues>
+    <fields>
+        <label></label>
+        <name>XOGrp_Field__c</name>
+    </fields>
+    <layouts>
+        <layout>XOGrp Account Layout</layout>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>New Section</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

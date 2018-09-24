@@ -6,4 +6,6 @@
     <tab>standard-Contact</tab>
     <tab>standard-report</tab>
     <tab>standard-Dashboard</tab>
+    <tab>Support__c</tab>
+    <tab>Student__c</tab>
 </CustomApplication>
