@@ -144,6 +144,8 @@
         <members>TestNA23issue__mdt.Test1__c</members>
         <members>TestNS21__c.TestNS22__c</members>
         <members>Vehicle__c.PlateNumber__c</members>
+        <members>X1010tes__c.Name2__c</members>
+        <members>X1010tes__c.name1__c</members>
         <members>XOGrp_Account__c.XOGrp_Field__c</members>
         <members>Yousuf_Shareef__c.PROFIT_CENTER_ID__c</members>
         <members>Yousuf_Shareef__c.Test112__c</members>
@@ -565,6 +567,7 @@
         <members>Garage_Developer</members>
         <members>Shiva_Developer</members>
         <members>Yousuf_Developer</members>
+        <members>test1</members>
         <name>PermissionSet</name>
     </types>
     <types>
