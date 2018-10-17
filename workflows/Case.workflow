@@ -89,6 +89,7 @@
             <field>Case.IsClosed</field>
             <operation>notEqual</operation>
         </criteriaItems>
+        <description>1234</description>
         <triggerType>onAllChanges</triggerType>
     </rules>
     <rules>
