@@ -907,6 +907,7 @@
     <types>
         <members>Case.Highpriority_case_created</members>
         <members>Case.Mediumpriority</members>
+        <members>Case.testemails</members>
         <members>Opportunity.yousufemail</members>
         <members>Support__c.When_ever_a_support_case_created</members>
         <members>Support__c.case_created</members>
@@ -928,6 +929,7 @@
     <types>
         <members>Account.testttt</members>
         <members>Case.case created 1</members>
+        <members>Case.caseworkflow</members>
         <members>Case.prioritystatus</members>
         <members>Case.prioritystatus1</members>
         <members>Contact.Apparao</members>

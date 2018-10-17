@@ -29,6 +29,17 @@
         <senderType>CurrentUser</senderType>
         <template>unfiled$public/prioritystatus</template>
     </alerts>
+    <alerts>
+        <fullName>testemails</fullName>
+        <description>testemail</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>ramesh.g@qa.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>unfiled$public/SalesNewCustomerEmail</template>
+    </alerts>
     <fieldUpdates>
         <fullName>fieldupdatetest</fullName>
         <description>123456789987654321</description>
@@ -66,6 +77,19 @@
         </criteriaItems>
         <description>hiiiiiiii</description>
         <triggerType>onCreateOrTriggeringUpdate</triggerType>
+    </rules>
+    <rules>
+        <fullName>caseworkflow</fullName>
+        <actions>
+            <name>testemails</name>
+            <type>Alert</type>
+        </actions>
+        <active>false</active>
+        <criteriaItems>
+            <field>Case.IsClosed</field>
+            <operation>notEqual</operation>
+        </criteriaItems>
+        <triggerType>onAllChanges</triggerType>
     </rules>
     <rules>
         <fullName>prioritystatus</fullName>
