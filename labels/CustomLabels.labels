@@ -1,17 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
-        <fullName>Test22062018</fullName>
+        <fullName>L1</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>Test22062018</shortDescription>
-        <value>123145</value>
+        <shortDescription>L1</shortDescription>
+        <value>L1</value>
     </labels>
     <labels>
-        <fullName>test2206</fullName>
+        <fullName>L2</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>test2206</shortDescription>
-        <value>Merge2</value>
+        <shortDescription>L2</shortDescription>
+        <value>L2</value>
+    </labels>
+    <labels>
+        <fullName>L3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>L3</shortDescription>
+        <value>L3</value>
+    </labels>
+    <labels>
+        <fullName>step1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>step1</shortDescription>
+        <value>step1</value>
+    </labels>
+    <labels>
+        <fullName>step2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>step2</shortDescription>
+        <value>step2</value>
+    </labels>
+    <labels>
+        <fullName>step3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>step3</shortDescription>
+        <value>step3</value>
     </labels>
 </CustomLabels>
